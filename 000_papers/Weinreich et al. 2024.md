@@ -32,4 +32,5 @@ Neural materials typically consist of a collection of neural featuers along with
 		- Hardware-compliant filtering 
 
 ##### Related works
-1. [[Vaidyanathan et al. 2023]]
+1. [Vaidyanathan et al. 2023](Vaidyanathan%20et%20al.%202023.md)
+2. 
